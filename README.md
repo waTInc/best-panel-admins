@@ -1,4 +1,4 @@
-# Awesome panel admins
+# Best panel admins
 here is the best and free panel admins for backends developers.
 
 if you find a new one and its free,then add it to the list :)
