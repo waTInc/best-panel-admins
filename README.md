@@ -6,18 +6,18 @@
 
 #### CSS
 
-- [Bootsrap](databases/mysql.sh)
+- [Bootsrap](CSS/mysql.sh)
 
 #### JavaScript
 
-- [Vue.js](databases/redis.sh)
-- [Angular.js](databases/redis.sh)
-- [React.js](databases/redis.sh)
-- [Redis](databases/redis.sh)
+- [Vue.js](JavaScript/)
+- [Angular.js](JavaScript/redis.sh)
+- [React.js](JavaScript/redis.sh)
+- [Redis](JavaScript/redis.sh)
 
 #### PHP
 
-- [Laravel](databases/redis.sh)
+- [Laravel](PHP/redis.sh)
 
 </details>
 
