@@ -9,6 +9,10 @@ if you find a new one and its free,then add it to the list :)
 <details>
 <summary>View Panel Admins</summary>
 
+### Tailwind
+
+- [Tailwind Admin](https://github.com/tailwindadmin/admin)
+
 #### Bootstrap
 
 - [sb admin](https://startbootstrap.com/template/sb-admin)
@@ -38,7 +42,7 @@ if you find a new one and its free,then add it to the list :)
 - [sb admin](https://startbootstrap.com/template/sb-admin-angular)
 - [ArchitectUI](https://dashboardpack.com/theme-details/architectui-angular-7-dashboard-free/?v=3a52f3c22ed6)
 - [coreUI](https://github.com/coreui/coreui-free-angular-admin-template)
-
+- [blur admin](https://github.com/akveo/blur-admin)
 
 
 #### React.js
