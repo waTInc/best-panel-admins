@@ -1,15 +1,15 @@
 # Awesome panel admins
 here is the best and free panel admins for backends developers.
 
-if you find a new one and its free, add it to the list :)
+if you find a new one and its free,then add it to the list :)
 
 
-### 🗃️ Panel Admin
+### 🌐 Panel Admin
 
 <details>
 <summary>View Panel Admins</summary>
 
-#### Bootsrap
+#### Bootstrap
 
 - [sb admin](https://startbootstrap.com/template/sb-admin)
 - [sb admin 2](https://startbootstrap.com/theme/sb-admin-2)
@@ -24,7 +24,6 @@ if you find a new one and its free, add it to the list :)
 - [light bootstrap](https://www.creative-tim.com/product/light-bootstrap-dashboard?affiliate_id=52980)
 - [material dashboard](https://www.creative-tim.com/product/material-dashboard?affiliate_id=52980)
 - [Now UI](https://www.creative-tim.com/product/now-ui-dashboard?affiliate_id=52980)
-- []()
 
 #### Vue.js
 
@@ -32,7 +31,6 @@ if you find a new one and its free, add it to the list :)
 - [Vue Black](https://www.creative-tim.com/product/vue-black-dashboard?affiliate_id=52980)
 - [argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?affiliate_id=52980)
 - [coreUI](https://github.com/coreui/coreui-free-vue-admin-template)
-- []()
 
 
 #### Angular.js
